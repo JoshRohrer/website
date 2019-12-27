@@ -15,24 +15,20 @@ body {
 .nav {
     border: 1vh solid white;
     border-width: 0.3vh 0;
+    /* border-radius: 2vh; */
     list-style: none;
-    margin-top: 0vh;
-    margin-left: 30vh;
-    margin-right: 30vh;
+    margin: 0vh;
     padding: 0vh;
     text-align: center;
-    font-size: 3vh;
 }
 .nav li {
     display: inline;
-    font-size: 3vh;
 }
 .nav a {
     display: inline-block;
     padding: 1.5vh;
     color: white;
     text-decoration: none;
-    font-size: 3vh;
 }
 
 .img {
@@ -73,5 +69,6 @@ h3 {
 
 .p1 {
     display: block;
+    /*flex-direction: column;*/
     font-size: 3.5vmin;
 }
