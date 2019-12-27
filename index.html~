@@ -4,8 +4,8 @@
 <link href = "indexCSS.css" rel = "stylesheet"  type = "text/css">
     <ul class = "nav">
         <li><a href = "./bio.html">Bio</a></li>
-        <li><a href = "./projects.html">Projects</a></li>
-        <li><a href = "./contact">Contact</a></li>
+        <li><a href = "../projects.html">Projects</a></li>
+        <li><a href = "../contact">Contact</a></li>
       </ul>
 </head>
 <body>
