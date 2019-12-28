@@ -14,15 +14,10 @@ body {
 	text-align:center;
 	color:White;
 }
-.github{
+.contact_links{
 	text-align:center;
 	overflow:hidden;
 }
-.email{
-	text-align:center;
-	
-}
-
 .github { 
 	background-color:white;
 	color:blue;
@@ -33,24 +28,7 @@ body {
 	font-family:Roboto;
 	font-size:16px;	
 }
-.github a:hover {
-	background-color:black;
-	color:white;
-	display:block;
-
-}
-.email { 
-	background-color:white;
-	color:blue;
-	border-style:solid;
-	text-align:center;
-	padding:20px 16px;
-	text-decoration:none;
-	font-family:Roboto;
-	font-size:16px;	
-	display:block;
-}
-.email a:hover {
+.contact_links a:hover {
 	background-color:black;
 	color:white;
 
