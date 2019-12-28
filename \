@@ -1,0 +1,35 @@
+@font-face {
+	src:url(fonts/roboto-regular.ttf);
+	font-family: "Roboto";
+}
+
+body {
+	background-image: url("4k.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: "Arial";
+	-o-background-size: cover;
+	margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+	color:White;
+}
+.contact_links{
+	text-align:center;
+	overflow:hidden;
+}
+.github { 
+	background-color:white;
+	color:blue;
+	border-style:solid;
+	text-align:center;
+	padding:20px 16px;
+	text-decoration:none;
+	font-family:Roboto;
+	font-size:16px;	
+}
+.contact_links a:hover {
+	background-color:black;
+	color:white;
+
+}
