@@ -6,7 +6,7 @@
 <ul class = "nav">
 <a href = "./bio.html">Bio</a>
 <a href = "./projects.html">Projects</a>
-<a href = "./index.html">Homepage</a>
+<a href = "./homepage.html">Homepage</a>
 </ul>
 <h1>Contact Me!</h1>
 <div id=contact_links>

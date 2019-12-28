@@ -16,7 +16,7 @@ body {
 }
 .nav{
 	border: 1vh solid white;
-	border-width:0.5vh 0;
+	border-width:0.6vh 0;
 	list-style: none;
 	margin-top: 0vh;
 	margin-left: 30vh;
